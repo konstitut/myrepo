@@ -1,1 +1,1 @@
-asdfdddddddc
+my_mean <- function(x) mean(x)
