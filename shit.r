@@ -1,3 +1,1 @@
-shit
-
-asdfasdfasdfasefd
+my_sd <- function(x) sd(x)
